@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Syspay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-25 13:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: syspay.php:54
+msgid "Syspay online payment service"
+msgstr ""
+
+#: syspay.php:55
+msgid "Pay with your credit card."
+msgstr ""
+
+#: syspay.php:103
+msgid "Card Number"
+msgstr ""
+
+#: syspay.php:104
+msgid "Please enter a valid credit card number"
+msgstr ""
+
+#: syspay.php:111
+msgid "Expiry Date"
+msgstr ""
+
+#: syspay.php:112
+msgid "Please enter the expiration date in format MM/YYY"
+msgstr ""
+
+#: syspay.php:120
+msgid "Card Code (CVC)"
+msgstr ""
+
+#: syspay.php:121
+msgid "Please enter the security code"
+msgstr ""
+
+#: syspay.php:129
+msgid "Card Owner"
+msgstr ""
+
+#: syspay.php:135
+msgid "Pay"
+msgstr ""
+
+#: syspay.php:150
+msgid "Enable/Disable"
+msgstr ""
+
+#: syspay.php:152
+msgid "Enable Syspay payment"
+msgstr ""
+
+#: syspay.php:156
+msgid "Title"
+msgstr ""
+
+#: syspay.php:158
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: syspay.php:159 syspay.php:503
+msgid "Syspay"
+msgstr ""
+
+#: syspay.php:163
+msgid "Syspay login"
+msgstr ""
+
+#: syspay.php:165
+msgid "Your Syspay application API Key."
+msgstr ""
+
+#: syspay.php:171
+msgid "Syspay passphrase"
+msgstr ""
+
+#: syspay.php:173
+msgid "Your Syspay application password."
+msgstr ""
+
+#: syspay.php:179
+msgid "Syspay public key"
+msgstr ""
+
+#: syspay.php:181
+msgid "Your Syspay public key."
+msgstr ""
+
+#: syspay.php:187
+msgid "Notification URL"
+msgstr ""
+
+#: syspay.php:205
+msgid "Payment failed: "
+msgstr ""
+
+#: syspay.php:213
+msgid "Invalid payment submission."
+msgstr ""
+
+#: syspay.php:252
+msgid "Billing phone is not valid phone number."
+msgstr ""
+
+#: syspay.php:283
+msgid "Syspay Payment exception:"
+msgstr ""
+
+#: syspay.php:423
+msgid "Payment failed:"
+msgstr ""
+
+#: syspay.php:484
+msgid "Syspay Refund exception:"
+msgstr ""
+
+#: syspay.php:502
+msgid "What is Syspay ?"
+msgstr ""
+
+#. Name of the plugin
+msgid "Syspay for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Payment Gateway for Syspay. Create your account on <a href=\"https://app."
+"syspay.com\">www.syspay.com</a> to get your merchant credentials and "
+"configure your account <a href=\"../wp-admin/admin.php?page=wc-"
+"settings&tab=checkout&section=syspaygateway\">here.</a> <strong>Syspay needs "
+"WooCommerce plugin.</strong>"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.syspay.com"
+msgstr ""

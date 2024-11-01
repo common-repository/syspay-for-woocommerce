@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Syspay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-25 15:19+0000\n"
+"PO-Revision-Date: 2020-05-25 15:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: syspay.php:54
+msgid "Syspay online payment service"
+msgstr "Syspay : Service de paiement en ligne"
+
+#: syspay.php:55
+msgid "Pay with your credit card."
+msgstr "Payez avec votre carte de crédit."
+
+#: syspay.php:103
+msgid "Card Number"
+msgstr "Numéro de carte bancaire"
+
+#: syspay.php:104
+msgid "Please enter a valid credit card number"
+msgstr "Veuillez entrer un numéro de carte de crédit valide"
+
+#: syspay.php:111
+msgid "Expiry Date"
+msgstr "Date d'expiration"
+
+#: syspay.php:112
+msgid "Please enter the expiration date in format MM/YYY"
+msgstr "Veuillez entrer la date d'expiration au format MM/AAAA"
+
+#: syspay.php:120
+msgid "Card Code (CVC)"
+msgstr "Code de sécurité"
+
+#: syspay.php:121
+msgid "Please enter the security code"
+msgstr "Veuillez entrer le code de sécurité au dos de votre carte"
+
+#: syspay.php:129
+msgid "Card Owner"
+msgstr "Titulaire de la carte"
+
+#: syspay.php:131
+msgid "Please enter the name of the card owner"
+msgstr "Veuillez entrer le nom du titulaire de la carte"
+
+#: syspay.php:137
+msgid "Pay"
+msgstr "Payer"
+
+#: syspay.php:151
+msgid "Enable/Disable"
+msgstr "Activer/Désactiver"
+
+#: syspay.php:153
+msgid "Enable Syspay payment"
+msgstr "Activer le paiement via Syspay"
+
+#: syspay.php:157
+msgid "Title"
+msgstr "Titre"
+
+#: syspay.php:159
+msgid "This controls the title which the user sees during checkout."
+msgstr "Titre affiché lors du checkout."
+
+#: syspay.php:160 syspay.php:461
+msgid "Syspay"
+msgstr "Syspay"
+
+#: syspay.php:164
+msgid "Syspay login"
+msgstr "Login marchand"
+
+#: syspay.php:166
+msgid "Your Syspay application API Key."
+msgstr "Clé d'API marchand"
+
+#: syspay.php:172
+msgid "Syspay passphrase"
+msgstr "Secret marchand"
+
+#: syspay.php:174
+msgid "Your Syspay application password."
+msgstr "Secret marchand"
+
+#: syspay.php:180
+msgid "Syspay public key"
+msgstr "Clé publique marchand"
+
+#: syspay.php:182
+msgid "Your Syspay public key."
+msgstr "Clé publique marchand"
+
+#: syspay.php:188
+msgid "Notification URL"
+msgstr "URL de notification"
+
+#: syspay.php:206
+msgid "Payment failed: "
+msgstr "Echec du paiement:"
+
+#: syspay.php:214
+msgid "Invalid payment submission."
+msgstr "Erreur envoie de la page invalide."
+
+#: syspay.php:236
+msgid "Billing phone is not valid phone number."
+msgstr "Le numéro de téléphone n'est pas valide."
+
+#: syspay.php:265
+msgid "Syspay Payment exception:"
+msgstr "Exception de paiement via Syspay:"
+
+#: syspay.php:393
+msgid "Payment failed:"
+msgstr "Echec du paiement."
+
+#: syspay.php:442
+msgid "Syspay Refund exception:"
+msgstr "Exception lors du remboursement via Syspay:"
+
+#: syspay.php:460
+msgid "What is Syspay ?"
+msgstr "Qu'est-ce que Syspay ?"
+
+#. Description of the plugin
+msgid ""
+"Syspay payment gateway. Create your account on <a href=\"https://app.syspay."
+"com\">www.syspay.com</a> to get your merchant credentials and configure your "
+"account <a href=\"../wp-admin/admin.php?page=wc-"
+"settings&tab=checkout&section=syspaygateway\">here.</a> <strong>Syspay needs "
+"WooCommerce plugin.</strong>"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://app.syspay.com/"
+msgstr ""
